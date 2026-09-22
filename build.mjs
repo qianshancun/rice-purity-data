@@ -340,9 +340,11 @@ const html = `<!DOCTYPE html>
   function refreshOpen() {
     document.querySelectorAll('.q[open]').forEach(renderQuestion);
   }
-  document.getElementById('questions').addEventListener('toggle', (event) => {
-    if (event.target.open) renderQuestion(event.target);
-  }, true);
+  document.querySelectorAll('.q').forEach((detail) => {
+    detail.addEventListener('toggle', () => {
+      if (detail.open) renderQuestion(detail);
+    });
+  });
   const input = document.querySelector('.find');
   input.addEventListener('input', () => {
     const query = input.value.trim().toLowerCase();
