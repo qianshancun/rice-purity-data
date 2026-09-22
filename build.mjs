@@ -139,11 +139,11 @@ const html = `<!DOCTYPE html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Rice Purity Test Data</title>
 <meta name="description" content="Rice Purity Test scores by age and country, and how often each item is checked.">
-<link rel="canonical" href="https://rice-purity-data.pages.dev/">
+<link rel="canonical" href="https://www.arealme.com/rice-purity-test/data/">
 <style>
   :root { color-scheme: light; }
   body { margin: 0; background: #f4e4c4; color: #24180f; font: 17px/1.45 Palatino, "Palatino Linotype", Georgia, serif; }
-  main { max-width: 46rem; margin: 0 auto; padding: 1.6rem 1.2rem 3rem; }
+  main { max-width: 72rem; margin: 0 auto; padding: 1.6rem 1.4rem 3rem; }
   .stamp { margin: 0; text-align: center; color: #c41616; font-family: "Snell Roundhand", "Segoe Script", "Brush Script MT", cursive; font-size: 1.7rem; transform: rotate(-7deg); }
   h1 { display: flex; align-items: center; justify-content: center; gap: .7rem; margin: .2rem 0 .3rem; font-size: 2.2rem; font-weight: 500; letter-spacing: .01em; }
   h1 i { flex: 1; max-width: 4.5rem; border-top: 3px solid #1a120c; border-bottom: 1px solid #1a120c; height: 0; }

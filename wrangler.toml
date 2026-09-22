@@ -1,0 +1,9 @@
+name = "arealme-rice-purity-data"
+main = "worker.js"
+account_id = "bcde86cbc071c7d619bf11d706b50251"
+compatibility_date = "2026-09-22"
+workers_dev = false
+
+routes = [
+  { pattern = "www.arealme.com/rice-purity-test/data*", zone_name = "arealme.com" }
+]
