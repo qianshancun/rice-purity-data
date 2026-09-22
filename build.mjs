@@ -182,21 +182,21 @@ const html = `<!DOCTYPE html>
   <h1><i></i>Rice Purity Test Data<i></i></h1>
   <p class="back"><a href="https://www.arealme.com/rice-purity-test/en/">Rice Purity Test</a></p>
 
-  <h2>Score distribution</h2>
+  <h2 id="distribution">Score distribution</h2>
   <p class="legend"><span><i class="swatch" style="background:#1a120c"></i>Men</span><span><i class="swatch" style="background:#a33b3b"></i>Women</span></p>
   ${bands}
   <p class="note">Share of scores in each band.</p>
 
-  <h2>Average score by age</h2>
+  <h2 id="age">Average score by age</h2>
   <p class="legend"><span><i class="swatch" style="background:#1a120c"></i>Men</span><span><i class="swatch" style="background:#a33b3b"></i>Women</span></p>
   ${ages}
   <p class="note">Bars start at 50. A higher score means fewer items checked.</p>
 
-  <h2>Average score by country</h2>
+  <h2 id="country">Average score by country</h2>
   ${countries}
   <p class="note">Bars start at 50. The last column is the share of visitors. 15% sample of about 20,000 results.</p>
 
-  <h2>How many people checked each item</h2>
+  <h2 id="questions">How many people checked each item</h2>
   <input class="find" type="search" placeholder="Find a question" aria-label="Find a question">
   <div id="questions">${questions}</div>
   <p class="note">The bar is the overall percent who checked yes. Open an item for men, women, and countries. Packaged Jun 27, 2022.</p>
