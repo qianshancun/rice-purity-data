@@ -1,0 +1,399 @@
+Held hands, romantically?
+(0)Yes
+(1)No
+|
+Been on a date?
+(0)Yes
+(1)No
+|
+Been in a relationship?
+(0)Yes
+(1)No
+|
+<div>Danced without<i>leaving room for Jesus</i>?</div><svg id="rpt_q4_extra" viewBox="0 0 285 407" xmlns="http://www.w3.org/2000/svg"><circle class="blink_me" stroke="red" fill="none" stroke-dasharray="9,15" cx="150" cy="339" r="48" stroke-width="4" stroke-dashoffset="11"></circle><path d="M60 98c-20-13-25-1-35-11-7 5-10 16-10 18-11 23-15 42-12 65l14 95c24 9 48 10 73 3 2-2 4-12 7-28l1-33 36 29c20 17 34 16 59 22 4 3 12 9 21 19h9l16 7c1 0 4-1 2-3-3-2-17-8-15-9s7 0 16 1c7 3 9 2 7-1-7-5-20-6-19-7s21 3 23 3 3-1 2-3c-8-3-19-5-20-7l17 2c2-1 5-1 0-4-12-4-21-4-23-6-2-3 11-5 13-6 2-2 3-5 0-6-12 4-17 2-24 3-6 1 1 7-12 3-10-3-52-44-66-44-3-6-10-15-23-27-14-15-23-30-24-44" stroke="#999"/><path d="M54 173c11 11 18 19 19 23l42-25M81 192l17 15M27 64c1 4 8-3 11 2 4 5 0-28 8-26 9 0 6-5 20 11-3-20 7-15 8-18s-1-6-5-10l4-9 7 5 12 2c3-6 3-11-1-14-11-7-24-5-31-5-5 0-9 1-14 5-3-4-7-4-12-2-6 3-6 5-11 14-8 23 5 25 4 45Z" stroke="#999"/><path d="M85 20c4 1 6 10 4 26 1 6 4 6 4 10 0 3-1 5-3 5-2-1-4-5-5-4s3 7 1 10c-2 2-8-2-8 0l6 5 1 9c-4 6-5 6-11 4-4-1-9-4-12-11M29 65c2 15-1 21-4 22" stroke="#999"/><path d="M74 85c-6 4-3-1-7 9M56 63c-7-7-9-15-5-23M56 55c3-4 2-7-3-8M86 39c-3 0-5 1-6 4M85 47c-1 2-3 3-6 1M210 59c-11 4-6 12-2 19 3 0-2-12 0-12 2 1 3 8 7 13 2 1-2-10 0-9 2 0 2 11 6 13 0-5-2-17 0-15 3 2 3 21 9 24 1 5-5 27-2 34 7 10 13 16 19 18l16 5 13 12c0-9 2-15 6-16-9-3-10-7-10-10-1-3 5-2 5-7V98c-1-5-4-1-6-6 0-10-1-7-3-14-3-10-3-12-7-17-3-4-6-6-11-6h-6c-2-3-7-2-8 0h-6l-5 1c-5-1-10 0-15 3Z" stroke="#999"/><path d="M229 56c-2 9 8 19 28 31M236 55c0 3 1 5 4 7M244 55c1 4 2 6 5 7M251 55c1 5 3 9 7 13M206 74c1 3 1 6-1 8-1 4 0 7-7 8-3-1-4 1-2 4 2 2 3 0 3 2 0 1-3 2-3 4l2 4-2 2 2 4-2 5c-3 4 5 6 22 5M209 84c5 2 7 4 7 6" stroke="#999"/><path d="M207 104c-2 3-6 3-10-1M237 97c5 10 7 19 4 29M245 98c7 8 9 18 7 31" stroke="#999"/><path d="M233 107c4 15 9 24 13 27M260 97c6 5 10 12 10 23M250 132c3 6 8 9 15 11M221 147c2-13-2-21-12-26" stroke="#999"/><path d="M227 147c-15 2-31 1-48-3-25-5-19-10-37-11-15-6-30-11-44-18l-16-10-19-12c-4 0-5 1-4 4 2 5 9 4 8 6 0 2-12 2-14 3s-3 4 4 5c8 0 18-4 18-4 1 1-13 4-16 6-2 1-4 3 4 4l19-3-14 4c-1 1-1 1 4 2l13 1 13 14c15 9 26 14 35 17 14 3 9 5 29 10l44 10 40 4" stroke="#999"/><path d="m189 232 3-29c1-3-2-11-1-13 5-4 10-10 14-19M17 265c-8 7-11 18-9 32 0 19 6 35 17 46v61M93 267l5 73v62M189 260l1 8c0 7-3 16-1 18l14 7c0 1-14-8-15-7 1 13 1 9 15 13 23 5 44 3 65-6v-9l-4-12-6-12-2-4v-12l4-23c13-26 17-47 13-62" stroke="#999"/><path stroke="#999" d="m243 207 3 28 3 3v5M250 285c5 0 8-3 10-9M231 147c13 16 18 28 14 37M204 94v3M197 299c-1 54 4 88 15 100M205 388l-1 19M212 323c16 49 27 75 32 79M222 319c2 7 9 7 18 0M268 295c6 21 7 36 2 46 2 11 8 22 8 46 4 6 5 12 4 17M235 146h9l6 7M252 160c-4 2-4 5 0 9"/><path d="M252 173c4 7 3 12-5 15l-10-13M35 335l-10 9M62 164l5 1M56 169l8 2M107 207c3 4 6 7 8 7M132 214c3-2 7-1 10 4M151 232c8 8 18 14 30 17M158 155c5 4 9 6 11 5M16 103c2 3 5 4 9 3M20 238c-2 3 1 7 7 13M9 203s1 6 6 7M12 225c0 2 2 3 4 4M220 143l-16-4c-4 0-5 3-4 7M197 142l-16 1M205 184c5-2 9-5 10-11" stroke="#999"/><text x="150" y="339" alignment-baseline="middle" text-anchor="middle" fill="red">Room for Jesus</text></svg>
+(0)Yes
+(1)No
+|
+Kissed a non-family member?
+(0)Yes
+(1)No
+|
+Kissed a non-family member on the lips?
+(0)Yes
+(1)No
+|
+French kissed?
+(0)Yes
+(1)No
+|
+French kissed in public?
+(0)Yes
+(1)No
+|
+Kissed on the neck?
+(0)Yes
+(1)No
+|
+Kissed horizontally?
+(0)Yes
+(1)No
+|
+Given or received a love bite?
+(0)Yes
+(1)No
+|
+Kissed or been kissed on the breast?
+(0)Yes
+(1)No
+|
+Kissed someone below the belt?
+(0)Yes
+(1)No
+|
+Kissed more than one person at a time?
+(0)Yes
+(1)No
+|
+Played a game involving stripping?
+(0)Yes
+(1)No
+|
+Masturbated to a picture or video?
+(0)Yes
+(1)No
+|
+Masturbated while someone else was in the room?
+(0)Yes
+(1)No
+|
+Helped someone masturbate?
+(0)Yes
+(1)No
+|
+Been caught masturbating?
+(0)Yes
+(1)No
+|
+Masturbated with an inanimate object?
+(0)Yes
+(1)No
+|
+Seen or read pornographic material?
+(0)Yes
+(1)No
+|
+Massaged or been massaged sensually?
+(0)Yes
+(1)No
+|
+Gone through the motions of intercourse whilst being fully dressed?
+(0)Yes
+(1)No
+|
+Undressed or been undressed by a MPS (member of the preferred sex)?
+(0)Yes
+(1)No
+|
+Showered with a MPS?
+(0)Yes
+(1)No
+|
+Fondled or had your butt cheeks fondled?
+(0)Yes
+(1)No
+|
+Fondled or had your breasts fondled?
+(0)Yes
+(1)No
+|
+Fondled or had your genitals fondled?
+(0)Yes
+(1)No
+|
+Heard of “blue balls”?
+(0)Yes
+(1)No
+|
+Had an orgasm due to someone else’s manipulation?
+(0)Yes
+(1)No
+|
+Tried sexting with any stranger(s)?
+(0)Yes
+(1)No
+|
+Sent or received sexually explicit photographs?
+(0)Yes
+(1)No
+|
+Engaged in sexually explicit activity over video chat?
+(0)Yes
+(1)No
+|
+Cheated on a significant other during a relationship?
+(0)Yes
+(1)No
+|
+Purchased contraceptives?
+(0)Yes
+(1)No
+|
+Given oral sex?
+(0)Yes
+(1)No
+|
+Received oral sex?
+(0)Yes
+(1)No
+|
+Ingested someone else’s genital secretion?
+(0)Yes
+(1)No
+|
+Used a sex toy with a partner?
+(0)Yes
+(1)No
+|
+Spent the night with a MPS?
+(0)Yes
+(1)No
+|
+Been walked in on while engaging in a sexual act?
+(0)Yes
+(1)No
+|
+Kicked a roommate out to commit a sexual act?
+(0)Yes
+(1)No
+|
+Had sexual intercourse?
+(0)Yes
+(1)No
+|
+Had sexual intercourse three or more times in one night?
+(0)Yes
+(1)No
+|
+Had sexual intercourse ten or more times?
+(0)Yes
+(1)No
+|
+Had sexual intercourse in four or more different positions?
+(0)Yes
+(1)No
+|
+Had sexual intercourse with a stranger or person you met within 24 hours?
+(0)Yes
+(1)No
+|
+Had sexual intercourse in a motor vehicle?
+(0)Yes
+(1)No
+|
+Had sexual intercourse outdoors?
+(0)Yes
+(1)No
+|
+Had sexual intercourse in public?
+(0)Yes
+(1)No
+|
+Had sexual intercourse in a swimming pool or hot tub?
+(0)Yes
+(1)No
+|
+Had sexual intercourse in a bed not belonging to you or your partner?
+(0)Yes
+(1)No
+|
+Had sexual intercourse while you or your partner’s parents were in the same home?
+(0)Yes
+(1)No
+|
+Had sexual intercourse with a non-participating third party in the same room?
+(0)Yes
+(1)No
+|
+Had a threesome?
+(0)Yes
+(1)No
+|
+Attended an orgy?
+(0)Yes
+(1)No
+|
+Had two or more distinct acts of sexual intercourse with two or more people within 24 hours?
+(0)Yes
+(1)No
+|
+Had sexual intercourse with five or more partners?
+(0)Yes
+(1)No
+|
+Been photographed or filmed during sexual intercourse by yourself or others?
+(0)Yes
+(1)No
+|
+Had period sex?
+(0)Yes
+(1)No
+|
+Had anal sex?
+(0)Yes
+(1)No
+|
+Had a pregnancy scare?
+(0)Yes
+(1)No
+|
+<span>Impregnated someone or been impregnated in <b style="color:#f00">unplanned</b> cases?</span>
+(0)Yes
+(1)No
+|
+Paid or been paid for a sexual act?
+(0)Yes
+(1)No
+|
+Committed an act of voyeurism?
+(0)Yes
+(1)No
+|
+Committed an act of incest?
+(0)Yes
+(1)No
+|
+Engaged in bestiality?
+(0)Yes
+(1)No
+|
+Ingested alcohol in a non-religious context?
+(0)Yes
+(1)No
+|
+Have you ever done a <em>69</em>?
+(0)Yes
+(1)No
+|
+Been drunk?
+(0)Yes
+(1)No
+|
+Faked sobriety in front of parents or teachers?
+(0)Yes
+(1)No
+|
+Had severe memory loss due to alcohol?
+(0)Yes
+(1)No
+|
+Used tobacco?
+(0)Yes
+(1)No
+|
+Used marijuana?
+(0)Yes
+(1)No
+|
+Used a drug stronger than marijuana?
+(0)Yes
+(1)No
+|
+Used methamphetamine, crack, cocaine, PCP, horse tranquilizers or heroin?
+(0)Yes
+(1)No
+|
+Been sent to the office of a principal, dean or judicial affairs representative for a disciplinary infraction?
+(0)Yes
+(1)No
+|
+Been put on disciplinary probation or suspended?
+(0)Yes
+(1)No
+|
+Urinated in front of anyone?
+(0)Yes
+(1)No
+|
+Urinated in public?
+(0)Yes
+(1)No
+|
+Taken a shower/bath with anyone older than 10 years of age?
+(0)Yes
+(1)No
+|
+Gone skinny-dipping?
+(0)Yes
+(1)No
+|
+Gone streaking (running naked through a public place)?
+(0)Yes
+(1)No
+|
+Seen a stripper?
+(0)Yes
+(1)No
+|
+Had the police called on you?
+(0)Yes
+(1)No
+|
+Run from the police?
+(0)Yes
+(1)No
+|
+Had the police question you?
+(0)Yes
+(1)No
+|
+Got handcuffed?
+(0)Yes
+(1)No
+|
+Been arrested?
+(0)Yes
+(1)No
+|
+Been convicted of a crime?
+(0)Yes
+(1)No
+|
+Been convicted of a felony?
+(0)Yes
+(1)No
+|
+Committed an act of vandalism?
+(0)Yes
+(1)No
+|
+<div>Joined the<i>mile high club</i>?</div><div id="rpt_q93_extra">The “mile high club” is slang for the group of people who have had sexual intercourse on board an aircraft in flight.</div>
+(0)Yes
+(1)No
+|
+Participated in a “booty call” with a partner whom you were not in a relationship with?
+(0)Yes
+(1)No
+|
+Traveled 100 miles or more for the primary purpose of sexual intercourse?
+(0)Yes
+(1)No
+|
+Had sexual intercourse with a partner with an age gap of more than 3 years?
+(0)Yes
+(1)No
+|
+Had sexual intercourse with a virgin?
+(0)Yes
+(1)No
+|
+Had sexual intercourse without a condom?
+(0)Yes
+(1)No
+|
+Had an STD (sexually transmitted disease) test due to reasonable suspicion?
+(0)Yes
+(1)No
+|
+Had an STD?
+(0)Yes
+(1)No
